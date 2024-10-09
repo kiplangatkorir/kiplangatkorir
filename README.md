@@ -1,8 +1,8 @@
 👋 Hi, I’m @kiplangatkorir
 
-👀 I’m interested in AI, fintech, and education technology
+👀 I’m interested in AI
 
-🌱 I’m currently learning AI and machine learning through hands-on projects and certifications
+🌱 I’m currently doing LLM Research on Kolmogrov Arnold Networks (KANs)
 
 💞️ I’m looking to collaborate on innovative AI-driven solutions for Africah
 
