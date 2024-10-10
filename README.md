@@ -1,18 +1,23 @@
-👋 Hi, I’m @kiplangatkorir
+# 👋 Hi, I’m Kiplangat Korir
 
-👀 I’m interested in AI
+I'm an AI researcher with a passion for advancing the field of machine learning and artificial intelligence. My focus is on developing efficient models, understanding complex systems, and exploring new methods to make AI more accessible and scalable.
 
-🌱 I’m currently doing LLM Research on Kolmogrov Arnold Networks (KANs)
+### 🚀 About Me
+- 🔍 **Research Focus**: My work primarily revolves around Large Language Models (LLMs), optimization techniques, and the intersection of AI and real-world applications.
+- 🧠 **Current Project**: I'm currently experimenting with applying Kolmogorov-Arnold networks to LLMs to reduce computational costs while maintaining model accuracy.
+- 💡 **Fun Fact**: I enjoy discovering new patterns in data and sometimes the AI teaches me new perspectives I hadn’t considered before!
+  
+### 🛠️ Tech & Tools
+- **Languages**: Python, TensorFlow, PyTorch
+- **Tools**: Jupyter Notebooks, Git, Docker
+- **Favorite Libraries**: Hugging Face Transformers, scikit-learn, NumPy, Pandas
 
-💞️ I’m looking to collaborate on innovative AI-driven solutions for Africah
+### 📚 Latest Research
+I'm constantly diving into cutting-edge AI research to improve model performance and efficiency. You can find more about my work in the repositories below or check out my latest published research articles.
 
-📫 How to reach me: kiplangatgilbert00@gmail.com
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I’m blending AI with country music as 'Ryder AI,' where algorithms meet heartstrings!
-
-<!---
-kiplangatkorir/kiplangatkorir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 How to reach me
+Feel free to connect with me for collaborations or AI discussions!
+- **Email**: korirkiplangat22@gmail.com
+- **LinkedIn**: [Kiplangat Korir](https://www.linkedin.com/in/kiplangat-korir)
+  
+Let's build the future of AI together! 🚀
