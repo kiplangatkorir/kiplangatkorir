@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Kiplangat Korir
 
-I'm an AI researcher, founder, and CEO of GraphFusion, dedicated to advancing machine learning and artificial intelligence with scalable, efficient solutions. My work centers around neural memory networks, dynamic knowledge graphs, and adaptive decision support systems for real-world applications.
+I'm an AI researcher, founder, and CEO of GraphFusionAI, dedicated to advancing machine learning and artificial intelligence with scalable, efficient solutions. My work centers around neural memory networks, dynamic knowledge graphs, and adaptive decision support systems for real-world applications.
 
 ### 🚀 About Me
 - 🔍 **Research Focus**: I specialize in developing persistent memory networks, scalable AI systems, and confidence-scored insights, with an emphasis on applications in healthcare and other high-impact sectors.
-- 🧠 **Current Project**: I’m leading the development of GraphFusion, a cutting-edge AI platform combining neural memory networks with dynamic knowledge graphs to deliver adaptive decision support.
+- 🧠 **Current Project**: I’m leading the development of GraphFusionAI, a cutting-edge AI platform combining neural memory networks with dynamic knowledge graphs to deliver adaptive decision support.
 - 💡 **Fun Fact**: I often find that my work in AI not only advances tech but also deepens my understanding of complex systems and human decision-making!
 
 ### 🛠️ Tech & Tools
