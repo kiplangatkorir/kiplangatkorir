@@ -1,5 +1,3 @@
 # 👋 Hi, I’m Kiplangat Korir
 
-I am an AI Researcher Building AI in Africa
-
-Let’s shape the future of AI together! 🚀
+I like building AI Libraries and Training AI Models on Low Resource Datasets.
